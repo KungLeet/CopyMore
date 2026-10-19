@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application android:label="CopyMore 粘贴验证">
+        <activity android:name="com.copymore.android.PasteProbeActivity" android:exported="true" />
+        <provider android:name="com.copymore.android.PasteProbeProvider" android:authorities="com.copymore.android.test.fixtures" android:exported="false" android:grantUriPermissions="true" />
+    </application>
+</manifest>

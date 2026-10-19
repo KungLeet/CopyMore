@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleName</key><string>CopyMore</string>
+<key>CFBundleDisplayName</key><string>CopyMore</string>
+<key>CFBundleIdentifier</key><string>com.copymore.mac</string>
+<key>CFBundleExecutable</key><string>CopyMore</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleShortVersionString</key><string>0.4.0</string>
+<key>CFBundleVersion</key><string>6</string>
+<key>LSMinimumSystemVersion</key><string>15.0</string>
+<key>LSUIElement</key><true/>
+<key>NSHighResolutionCapable</key><true/>
+<key>NSLocalNetworkUsageDescription</key><string>CopyMore 需要在同一 Wi-Fi 下发现你的手机，并安全同步剪贴板内容。</string>
+<key>NSBonjourServices</key><array><string>_copymore._tcp</string></array>
+</dict></plist>

@@ -1,0 +1,8 @@
+.DS_Store
+native/macos/.build/
+native/android/.gradle/
+native/android/local.properties
+native/android/**/build/
+build/
+.toolchains/
+*.xcuserstate
